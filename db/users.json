@@ -8,5 +8,10 @@
     "username": "user1",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false
+  },
+  {
+    "username": "user",
+    "password": "$2b$12$YE77jBMKUc2HpRd1L2TWtOP2R1pPILXG/mY/C95AaySJ/UPXgpxcO",
+    "isAdmin": false
   }
 ]
